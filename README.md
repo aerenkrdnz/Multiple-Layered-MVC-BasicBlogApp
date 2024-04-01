@@ -21,6 +21,6 @@ Asp.Net 8 ile geliştirilmiş - MVC Projesi örneği
 
 ## Kurulum
 - Migration dosyaları silindikten sonra , add-migration ve update-database komutları kullanılarak veritabanı ayaklandırılabilir.
-- Veritabanından UserType 2 yaparak admin yetkilerine ulaşılabilir.
+
 
 
