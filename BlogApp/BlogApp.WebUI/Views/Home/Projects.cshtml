@@ -1,0 +1,28 @@
+﻿
+<div class="container">
+    <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-primary-subtle">
+        <div class="col-lg-6 px-0">
+            <h1 class="display-4 fst-italic">Bu Sayfada Projelerinizi Görüntüleyebilirsiniz.</h1>
+            <p class="lead my-3">Bu sayfada veritabanına eklediğiniz projeler gösterilmektedir.</p>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-3">
+
+            <vc:categories></vc:categories>
+
+        </div>
+
+        <div class="col-9">
+            <vc:blogs category-id="@ViewBag.CategoryId"></vc:blogs>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
