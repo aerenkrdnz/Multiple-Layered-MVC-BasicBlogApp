@@ -14,6 +14,7 @@ Asp.Net 8 ile geliştirilmiş - MVC Projesi örneği
 - Entity Framework Core
 - MVC Design Pattern
 - Generic Repository Design Pattern
+- Layered architecture
 - Javascript / Jquery
 - Bootstrap
 - /SweetAlert/DataTables
