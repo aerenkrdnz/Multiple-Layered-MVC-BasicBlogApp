@@ -6,17 +6,18 @@ Detaylı ve sürdürülebilir bir MVC örneği
 
 ## BlogApp Sitesi
 
-Asp.Net 8 ile geliştirilmiş - MVC kimlik doğrulama projesi örneği
+Asp.Net 8 ile geliştirilmiş - MVC projesi örneği
 
 
 ### Kullanılan Teknolojiler
 - Sql Server
 - Entity Framework Core
 - MVC Design Pattern
-- Javascript 
+- Generic Repository Design Pattern
+- Layered architecture
+- Javascript / Jquery
 - Bootstrap
-- Toastr
-
+- /SweetAlert/DataTables
 
 ## Kurulum
 - Migration dosyaları silindikten sonra , add-migration ve update-database komutları kullanılarak veritabanı ayaklandırılabilir.
